@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'miladoll-mm';
+  src:  url('fonts/miladoll-mm.eot?f00r77');
+  src:  url('fonts/miladoll-mm.eot?f00r77#iefix') format('embedded-opentype'),
+    url('fonts/miladoll-mm.ttf?f00r77') format('truetype'),
+    url('fonts/miladoll-mm.woff?f00r77') format('woff'),
+    url('fonts/miladoll-mm.svg?f00r77#miladoll-mm') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.miladoll-mm {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'miladoll-mm' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.miladoll-mm-fullspell:before {
+  content: "\6d";
+}
+.miladoll-mm-capitalm:before {
+  content: "\4d";
+}
+.miladoll-mm-ethonos:before {
+  content: "\65";
+}
+.miladoll-mm-no-claim-no-return .path1:before {
+  content: "\6e";
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path2:before {
+  content: "\6f";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path3:before {
+  content: "\70";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path4:before {
+  content: "\71";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path5:before {
+  content: "\72";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path6:before {
+  content: "\73";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path7:before {
+  content: "\74";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path8:before {
+  content: "\75";
+  margin-left: -1.5927734375em;
+  color: rgb(13, 9, 16);
+}
+.miladoll-mm-no-claim-no-return .path9:before {
+  content: "\76";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path10:before {
+  content: "\77";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path11:before {
+  content: "\78";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path12:before {
+  content: "\79";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path13:before {
+  content: "\7a";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path14:before {
+  content: "\7b";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path15:before {
+  content: "\7c";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path16:before {
+  content: "\7d";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path17:before {
+  content: "\7e";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path18:before {
+  content: "\7f";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path19:before {
+  content: "\80";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path20:before {
+  content: "\81";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path21:before {
+  content: "\82";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path22:before {
+  content: "\83";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path23:before {
+  content: "\84";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path24:before {
+  content: "\85";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path25:before {
+  content: "\86";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path26:before {
+  content: "\87";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-no-claim-no-return .path27:before {
+  content: "\88";
+  margin-left: -1.5927734375em;
+  color: rgb(252, 252, 252);
+}
+.miladoll-mm-masters-and-dolls:before {
+  content: "\64";
+}
